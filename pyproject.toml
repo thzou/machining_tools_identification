@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "machining_tools_identification"
+version = "0.1.0"
+description = "Machining Tool Indentification utilizing Temporal 3D Point Clouds"
+authors = ["Thanasis Zoumpekas <thanasis.zoumpekas@ub.edu>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[project]
+dynamic = ["dependencies"]
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}

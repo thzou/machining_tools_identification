@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated Folders
+wandb/
+log/
+data/
+
+# My bash scripts
+experiments_Large_Dataset.sh
+experiments_Large_Dataset_b16.sh
+experiments_Large_Dataset_b32.sh
+experiments_Large_Dataset_b64.sh
+experiments_Large_Dataset_b8.sh
+experiments_Small_Dataset.sh
+experiments_Small_Dataset_b16.sh
+experiments_Small_Dataset_b32.sh
+experiments_Small_Dataset_b64.sh
+experiments_Small_Dataset_b8.sh

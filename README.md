@@ -1,2 +1,4 @@
 # machining_tools_identification
-Intelligent system for machining tool identification utilizing temporal point clouds
+Machining tool identification utilizing temporal 3D point clouds
+
+Coming Soon!
