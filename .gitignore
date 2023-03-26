@@ -132,6 +132,8 @@ dmypy.json
 wandb/
 log/
 data/
+models/pointnet2*
+requirements.txt
 
 # My bash scripts
 experiments_Large_Dataset.sh
