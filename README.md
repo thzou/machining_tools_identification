@@ -40,8 +40,8 @@ If all the dependencies installed correctly then you can train and test new mode
 
 The temporal 3D point clouds are available here: (TPCOMP dataset) https://doi.org/10.34810/data205
 
-* 16 Tools Large Dataset: Please put it under ```data/16_Tools_Large_Dataset/'```
-* 16 Tools Small Dataset: Please put it under ```data/16_Tools_Small_Dataset/'```
+* 16 Tools Large Dataset: Please put it under ```data/16_Tools_Large_Dataset/```
+* 16 Tools Small Dataset: Please put it under ```data/16_Tools_Small_Dataset/```
 
 ### Training 
 
@@ -56,4 +56,4 @@ Our code is mainly based on the following repository: https://github.com/yanx27/
 
 ## License
 
-MIT LICENSE.
+MIT License.

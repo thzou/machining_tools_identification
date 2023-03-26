@@ -136,7 +136,6 @@ data/
 # No-need files
 models/pointnet2*
 requirements.txt
-poetry.lock
 
 # My bash scripts
 experiments_Large_Dataset.sh
